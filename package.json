@@ -1,0 +1,11 @@
+{
+  "name": "plataformas",
+  "version": "1.0.0",
+  "description": "blokes",
+  "main": "Block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergio",
+  "license": "ISC"
+}
